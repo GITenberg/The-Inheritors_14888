@@ -1,0 +1,57 @@
+_repo: The-Inheritors_14888
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+  - agent_name: Ford, Ford Madox
+    aliases:
+    - Huffer, Ford
+    - Hueffer, Ford H. Madox
+    - Chaucer, Daniel
+    - Hueffer, Ford Hermann
+    - Hueffer, Ford Madox
+    birthdate: 1873
+    deathdate: 1939
+    gutenberg_agent_id: '1016'
+    url: http://www.gutenberg.org/2009/agents/1016
+    wikipedia: http://en.wikipedia.org/wiki/Ford_Madox_Ford
+description: "The Inheritors: An Extravagant Story (1901) is a quasi-science fiction\
+  \ novel on which Ford Madox Ford and Joseph Conrad collaborated. It looks at society's\
+  \ mental evolution and what is gained and lost in the process. Written before the\
+  \ first World War, its themes of corruption and the effect of the 20th Century on\
+  \ British aristocracy appeared to predict history. It was first published in London\
+  \ by William Heinemann and later the same year in New York by McClure, Phillips\
+  \ & Co.\nIn the novel, the metaphor of the \"fourth dimension\" is used to explain\
+  \ a societal shift from a generation of people who have traditional values of interdependence,\
+  \ being overtaken by a modern generation who believe in expediency, callously using\
+  \ political power to bring down the old order. Its narrator is an aspiring writer\
+  \ who himself makes a similar transition at a personal level only to feel he has\
+  \ lost everything.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14888'
+  wikidata: Q7742035
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Science fiction'
+title: The Inheritors
+url: http://www.gutenberg.org/ebooks/14888
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Inheritors_(Conrad_and_Ford_novel)
